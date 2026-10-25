@@ -33,7 +33,7 @@ function Dashboard({ applications, stats, onAdd, onEdit, onNavigate }) {
       <section className="hero-section">
         <div>
           <div className="eyebrow"><span /> CAREER OVERVIEW</div>
-          <h1>Hi, Sowmiya <span className="wave">👋</span></h1>
+          <h1>Welcome back!<span className="wave">👋</span></h1>
           <p>Turn your job search into a clear, organized process.</p>
         </div>
         <button className="primary-button" onClick={onAdd}>
