@@ -147,13 +147,9 @@ Each developer should configure their own local `.env` file and MongoDB connecti
 
 For a deployed version, configure environment variables in the hosting provider and set the frontend API URL to the deployed backend URL.
 
-## Future Improvements
+## 🚀 Live Demo
 
-- User authentication and individual user accounts
-- Personalized job application tracking
-- Interview reminders and notifications
-- Additional analytics and reporting
-- Cloud deployment
+[**View JobTrack Live**](https://job-track-lemon.vercel.app)
 
 ## Author
 
