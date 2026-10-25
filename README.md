@@ -163,4 +163,4 @@ For a deployed version, configure environment variables in the hosting provider 
 
 ---
 
-*JobTrack is a project developed to practice full-stack web development, REST API integration, database operations, and job application management.*
+*JobTrack is a full-stack job application tracking platform designed to help users manage applications, monitor hiring progress, and organize interview details in one place.*
